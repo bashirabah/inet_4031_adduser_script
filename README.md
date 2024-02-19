@@ -1,6 +1,5 @@
-# inet_4031_adduser_script
+# Creating User Accounts Using a Python Script
 
-##Creating User Accounts Using a Python Script
 ###
 
 Description Section
