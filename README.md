@@ -2,7 +2,7 @@
 
 ###
 
-Description Section
+Description Section:
 The purpose of this Python script is to automate the process of adding multiple users and groups to a Linux system. Instead of manually creating each user, the script reads user information from an input file (create-users.input) and performs the necessary configurations to add the users and assign them to specified groups. This automation simplifies and streamlines the user management process, particularly in scenarios where a large number of users need to be added across multiple systems.
 
 Operation Section:
